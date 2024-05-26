@@ -109,9 +109,10 @@ section {
     text-align: left;
 }
 
+ 
 .header_img {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     position: absolute;
     top: 10px; /* Adjust as needed */
