@@ -110,11 +110,11 @@ section {
 }
 
 .header_img {
-    width: 150px;
-    height: 150px;
-    border-radius: 80%;
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
     position: absolute;
-    top: 10px; /* Adjust as needed */
-    left: 10px; /* Adjust as needed */
+    top: 20px; /* Adjust as needed */
+    left: 20px; /* Adjust as needed */
     object-fit: cover;
 }
