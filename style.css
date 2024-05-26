@@ -112,7 +112,7 @@ section {
 .header_img {
     width: 150px;
     height: 150px;
-    border-radius: 30%;
+    border-radius: 50%;
     position: absolute;
     top: 10px; /* Adjust as needed */
     left: 10px; /* Adjust as needed */
