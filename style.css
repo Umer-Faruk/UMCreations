@@ -114,7 +114,7 @@ section {
     height: 150px;
     border-radius: 30%;
     position: absolute;
-    top: 20px; /* Adjust as needed */
-    left: 20px; /* Adjust as needed */
+    top: 10px; /* Adjust as needed */
+    left: 10px; /* Adjust as needed */
     object-fit: cover;
 }
