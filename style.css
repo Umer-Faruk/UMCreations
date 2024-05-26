@@ -110,8 +110,8 @@ section {
 }
 
 .header_img {
-    width: 150px;
-    height: 150px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     position: absolute;
     top: 10px; /* Adjust as needed */
