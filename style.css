@@ -105,3 +105,21 @@ section {
 .card-content a:hover {
     text-decoration: underline;
 }
+.container {
+    text-align: left;
+}
+
+h2, h3, h4 {
+    color: #333;
+    margin-top: 1.5rem;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
